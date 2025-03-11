@@ -1,0 +1,34 @@
+[
+  {
+    "Timestamp": "2025-03-06 14:45:44",
+    "Tipo": "UPDATE",
+    "Tabla": "Empleados",
+    "Datos": {
+      "Nombre": "Montoya",
+      "Departamento": "TI"
+    },
+    "Commit": false
+  },
+  {
+    "Timestamp": "2025-03-06 14:47:12",
+    "Tipo": "INSERT",
+    "Tabla": "Departamentos",
+    "Datos": {
+      "ID": 3,
+      "Nombre": "Elias",
+      "Departamento": "Contabilidad"
+    },
+    "Commit": false
+  },
+  {
+    "Timestamp": "2025-03-06 14:47:29",
+    "Tipo": "INSERT",
+    "Tabla": "Empleados",
+    "Datos": {
+      "ID": 3,
+      "Nombre": "Donaldo",
+      "Departamento": "TI"
+    },
+    "Commit": false
+  }
+]

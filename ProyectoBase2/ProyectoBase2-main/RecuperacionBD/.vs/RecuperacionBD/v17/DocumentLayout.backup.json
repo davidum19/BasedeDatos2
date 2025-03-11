@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Downloads\\ProyectoBase2\\ProyectoBase2-main\\ProyectoBase2-main\\RecuperacionBD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB1A3153-1131-494E-8C7A-0FF1BD19789C}|RecuperacionBD.csproj|c:\\users\\admin\\downloads\\proyectobase2\\proyectobase2-main\\proyectobase2-main\\recuperacionbd\\recovery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB1A3153-1131-494E-8C7A-0FF1BD19789C}|RecuperacionBD.csproj|solutionrelative:recovery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB1A3153-1131-494E-8C7A-0FF1BD19789C}|RecuperacionBD.csproj|c:\\users\\admin\\downloads\\proyectobase2\\proyectobase2-main\\proyectobase2-main\\recuperacionbd\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DB1A3153-1131-494E-8C7A-0FF1BD19789C}|RecuperacionBD.csproj|solutionrelative:data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB1A3153-1131-494E-8C7A-0FF1BD19789C}|RecuperacionBD.csproj|c:\\users\\admin\\downloads\\proyectobase2\\proyectobase2-main\\proyectobase2-main\\recuperacionbd\\log.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DB1A3153-1131-494E-8C7A-0FF1BD19789C}|RecuperacionBD.csproj|solutionrelative:log.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB1A3153-1131-494E-8C7A-0FF1BD19789C}|RecuperacionBD.csproj|c:\\users\\admin\\downloads\\proyectobase2\\proyectobase2-main\\proyectobase2-main\\recuperacionbd\\transactionlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB1A3153-1131-494E-8C7A-0FF1BD19789C}|RecuperacionBD.csproj|solutionrelative:transactionlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB1A3153-1131-494E-8C7A-0FF1BD19789C}|RecuperacionBD.csproj|c:\\users\\admin\\downloads\\proyectobase2\\proyectobase2-main\\proyectobase2-main\\recuperacionbd\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB1A3153-1131-494E-8C7A-0FF1BD19789C}|RecuperacionBD.csproj|solutionrelative:database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB1A3153-1131-494E-8C7A-0FF1BD19789C}|RecuperacionBD.csproj|c:\\users\\admin\\downloads\\proyectobase2\\proyectobase2-main\\proyectobase2-main\\recuperacionbd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB1A3153-1131-494E-8C7A-0FF1BD19789C}|RecuperacionBD.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB1A3153-1131-494E-8C7A-0FF1BD19789C}|RecuperacionBD.csproj|c:\\users\\admin\\downloads\\proyectobase2\\proyectobase2-main\\proyectobase2-main\\recuperacionbd\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB1A3153-1131-494E-8C7A-0FF1BD19789C}|RecuperacionBD.csproj|solutionrelative:utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 110,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TransactionLog.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\ProyectoBase2\\ProyectoBase2-main\\ProyectoBase2-main\\RecuperacionBD\\TransactionLog.cs",
+              "RelativeDocumentMoniker": "TransactionLog.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\ProyectoBase2\\ProyectoBase2-main\\ProyectoBase2-main\\RecuperacionBD\\TransactionLog.cs",
+              "RelativeToolTip": "TransactionLog.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T04:32:09.272Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "log.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\ProyectoBase2\\ProyectoBase2-main\\ProyectoBase2-main\\RecuperacionBD\\log.json",
+              "RelativeDocumentMoniker": "log.json",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\ProyectoBase2\\ProyectoBase2-main\\ProyectoBase2-main\\RecuperacionBD\\log.json",
+              "RelativeToolTip": "log.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-06T20:45:58.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "data.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\ProyectoBase2\\ProyectoBase2-main\\ProyectoBase2-main\\RecuperacionBD\\data.json",
+              "RelativeDocumentMoniker": "data.json",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\ProyectoBase2\\ProyectoBase2-main\\ProyectoBase2-main\\RecuperacionBD\\data.json",
+              "RelativeToolTip": "data.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-06T04:35:35.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Recovery.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\ProyectoBase2\\ProyectoBase2-main\\ProyectoBase2-main\\RecuperacionBD\\Recovery.cs",
+              "RelativeDocumentMoniker": "Recovery.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\ProyectoBase2\\ProyectoBase2-main\\ProyectoBase2-main\\RecuperacionBD\\Recovery.cs",
+              "RelativeToolTip": "Recovery.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAIwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T04:32:33.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\ProyectoBase2\\ProyectoBase2-main\\ProyectoBase2-main\\RecuperacionBD\\Database.cs",
+              "RelativeDocumentMoniker": "Database.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\ProyectoBase2\\ProyectoBase2-main\\ProyectoBase2-main\\RecuperacionBD\\Database.cs",
+              "RelativeToolTip": "Database.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAI4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T04:31:34.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\ProyectoBase2\\ProyectoBase2-main\\ProyectoBase2-main\\RecuperacionBD\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\ProyectoBase2\\ProyectoBase2-main\\ProyectoBase2-main\\RecuperacionBD\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAowDwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T04:28:33.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Utils.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\ProyectoBase2\\ProyectoBase2-main\\ProyectoBase2-main\\RecuperacionBD\\Utils.cs",
+              "RelativeDocumentMoniker": "Utils.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\ProyectoBase2\\ProyectoBase2-main\\ProyectoBase2-main\\RecuperacionBD\\Utils.cs",
+              "RelativeToolTip": "Utils.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T04:32:58.054Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

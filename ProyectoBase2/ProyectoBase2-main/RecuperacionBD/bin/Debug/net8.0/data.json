@@ -1,0 +1,56 @@
+{
+  "Empleados": [
+    {
+      "ID": 1,
+      "Nombre": "Montoya",
+      "Departamento": "TI"
+    },
+    {
+      "ID": 2,
+      "Nombre": "Sara",
+      "Departamento": "Ti"
+    },
+    {
+      "ID": 3,
+      "Nombre": "Maria",
+      "Departamento": "Gerencia"
+    },
+    {
+      "ID": 4,
+      "Nombre": "Lisa",
+      "Departamento": "TI"
+    },
+    {
+      "ID": 5,
+      "Nombre": "Mariano Cruz",
+      "Departamento": "TI"
+    },
+    {
+      "ID": 6,
+      "Nombre": "Luis",
+      "Departamento": "Ventas"
+    },
+    {
+      "ID": 7,
+      "Nombre": "Nathalie",
+      "Departamento": "TI"
+    }
+  ],
+  "Departamentos": [
+    {
+      "ID": 1,
+      "Nombre": "Leonel",
+      "Departamento": "TI"
+    },
+    {
+      "ID": 2,
+      "Nombre": "Memo",
+      "Departamento": "Recursos"
+    },
+    {
+      "ID": 3,
+      "Nombre": "kIKE",
+      "Departamento": "TI"
+    }
+  ]
+}

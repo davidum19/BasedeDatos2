@@ -1,0 +1,26 @@
+﻿{
+  "Empleados": [
+    {
+      "ID": 1,
+      "Nombre": "Ana",
+      "Departamento": "Ventas"
+    },
+    {
+      "ID": 2,
+      "Nombre": "Carlos",
+      "Departamento": "TI"
+    }
+  ],
+  "Departamentos": [
+    {
+      "ID": 1,
+      "Nombre": "Ventas",
+      "Ubicacion": "Madrid"
+    },
+    {
+      "ID": 2,
+      "Nombre": "TI",
+      "Ubicacion": "Barcelona"
+    }
+  ]
+}
