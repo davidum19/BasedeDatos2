@@ -6,8 +6,15 @@ class Program
 {
     static void Main()
     {
+        AuthManager auth = new AuthManager();
         Database db = new Database();
         TransactionLog log = new TransactionLog();
+
+        if (!AuthenticateUser(auth))
+        {
+            Console.WriteLine("⛔ Demasiados intentos fallidos. Cerrando programa...");
+            return;
+        }
 
         while (true)
         {
@@ -83,6 +90,48 @@ class Program
             Console.ReadLine();
         }
     }
+    static bool AuthenticateUser(AuthManager auth)
+    {
+        int intentos = 0;
+        while (intentos < 3)
+        {
+            Console.Clear();
+            Console.WriteLine("🔐 Sistema de Autenticación");
+            Console.WriteLine("1️⃣ Iniciar sesión");
+            Console.WriteLine("2️⃣ Registrar nuevo usuario");
+            Console.Write("Seleccione una opción: ");
+            string opcion = Console.ReadLine();
+
+            if (opcion == "2") // Opción de registro
+            {
+                Console.Write("Ingrese un nombre de usuario: ");
+                string newUsername = Console.ReadLine();
+                auth.RegisterUser(newUsername); // El método RegisterUser ya maneja la contraseña
+                Console.WriteLine("✅ Usuario registrado correctamente.");
+                // No se pide contraseña nuevamente después del registro
+            }
+            else if (opcion == "1") // Opción de inicio de sesión
+            {
+                Console.Write("Usuario: ");
+                string username = Console.ReadLine();
+                if (auth.Login(username)) // Aquí se verifica el login correctamente
+                {
+                    return true;
+                }
+
+                intentos++;
+                Console.WriteLine($"❌ Intento {intentos}/3 fallido.");
+            }
+            else
+            {
+                Console.WriteLine("⚠️ Opción inválida.");
+            }
+        }
+        return false;
+    }
+
+
+
 
     static void ShowMenu()
     {
